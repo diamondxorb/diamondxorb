@@ -2,7 +2,7 @@
 
 - 🍊  Júlia Paulo Amorim!
 - 🔭  Cursando Ciência da Computação na UnB
-- 🌱  Aprendendo C, C++, Python e Assembly
+- 🌱  Aprendendo C, Python, C++ e Assembly
 - 🌐  Pronomes: a / ela / -a
 - 📫  E-mail: juliaamorimp@gmail.com
 
