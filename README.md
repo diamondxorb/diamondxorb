@@ -2,7 +2,7 @@
 
 - 🍊  Júlia Paulo Amorim!
 - 🔭  Cursando Ciência da Computação na UnB
-- 🌱  Programando em C, Java, Fortran e Assembly
+- 🌱  Programando em C, Java, Python e Fortran
 - 🌐  Pronomes: a / ela / -a
 - 📫  E-mail: juliaamorimp@gmail.com
 
